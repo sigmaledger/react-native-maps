@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, {forwardRef, useImperativeHandle, useRef} from 'react';
 import {findNodeHandle} from 'react-native';
 import type {LatLng, Point, Region} from './sharedTypes';

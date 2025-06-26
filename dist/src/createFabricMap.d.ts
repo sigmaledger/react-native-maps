@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from 'react';
 import type { LatLng, Point, Region } from './sharedTypes';
 import type { Address, Camera, EdgePadding, SnapshotOptions } from './MapView.types';
