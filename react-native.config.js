@@ -5,11 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 module.exports = {
-  dependency: {
-    platforms: {
-      android: {
-        cmakeListsPath: 'src/main/jni/CMakeLists.txt',
-      },
-    },
+  platforms: {
+    android: null,
   },
 };
