@@ -66,6 +66,7 @@ example/vendor/bundle/
 example/ios/Config.xcconfig
 
 # Ruby / CocoaPods
+.podspec
 **/Pods/
 /vendor/bundle/
 
